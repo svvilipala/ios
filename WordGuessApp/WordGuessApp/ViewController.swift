@@ -74,6 +74,7 @@ class ViewController: UIViewController {
         if count == word.count{
             messageOL.text = "Congrats, You win!"
             displayOL.text = ""
+            inputOL.isEnabled = false
             hintOL.text = ""
         } else {
             word = words[count][0]

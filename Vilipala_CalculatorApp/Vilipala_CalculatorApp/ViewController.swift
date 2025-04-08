@@ -142,15 +142,6 @@ class ViewController: UIViewController {
             resultOutlet.text = operand1 + "-"
             number = ""
         }
-//        if(!calcOperator.isEmpty){
-//            equalsBtnClicked(sender)
-//            
-//           // isEmpty = true
-//        }
-//        calcOperator = "-"
-//        operand1 = number
-//        resultOutlet.text = operand1 + "-"
-//        number = ""
     }
     
     @IBAction func addBtnClicked(_ sender: UIButton) {
