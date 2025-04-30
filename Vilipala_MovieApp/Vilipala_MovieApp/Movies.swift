@@ -24,7 +24,7 @@ let genre1 = Movies(genre: "Action",
                         MovieList(movieName: "RRR", movieImage: "rrr", movieInfo: "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India."),
                         MovieList(movieName: "Baahubali", movieImage: "baahubali", movieInfo: "A child from the Mahishmati kingdom is raised by tribal people and one day learns about his royal heritage, his father's bravery in battle and a mission to overthrow the incumbent ruler."),
                         MovieList(movieName: "Pushpa", movieImage: "pushpa", movieInfo: "A smuggling kingpin faces off against a vengeful rival while manipulating politics, making big deals, and navigating tense confrontations. A public apology leads to a dramatic showdown, ending with challenge."),
-                        MovieList(movieName: "Akhanda", movieImage: "akhanda", movieInfo: "When the nefarious Varadarajulu plans to attack Murali Krishna, an ardent devotee of Lord Shiva, Akhanda leaves no stone unturned to defeat the evil.")
+                        MovieList(movieName: "Akhanda", movieImage: "akhanda", movieInfo: "When the Varadarajulu plans to attack Murali Krishna, an ardent devotee of Lord Shiva, Akhanda leaves no stone unturned to defeat the evil.")
                         ])
 
 let genre2 = Movies(genre: "Drama",
@@ -41,7 +41,7 @@ let genre3 = Movies(genre: "Comedy",
                         MovieList(movieName: "3 Idiots", movieImage: "3idiots", movieInfo: "A story abput three engineering students navigating life, friendship, and learning."),
                         MovieList(movieName: "F2: Fun and Frustation", movieImage: "f2", movieInfo: "After Venky, Varun also gets married thinking he can keep the wife in control but both of them get frustrated with the marital life which generates fun."),
                         MovieList(movieName: "Evadi Gola Vaadidhi", movieImage: "evadigolavaadidhi", movieInfo: "A lot of hilarious sequences happen when Veera Shankar runs away to Bangkok inorder to escape his marriage."),
-                        MovieList(movieName: "Jathi Ratnalu", movieImage: "jathiratnalu", movieInfo: "Three chappy-go-lucky men who arrive in the city for a better life but land up in jail for a crime they didn't commit.")
+                        MovieList(movieName: "Jathi Ratnalu", movieImage: "jathiratnalu", movieInfo: "Three happy-go-lucky men who arrive in the city for a better life but land up in jail for a crime they didn't commit.")
                         ])
 let genre4 = Movies(genre: "Thriller",
                     list_Array: [
